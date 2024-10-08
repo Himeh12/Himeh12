@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaime Almeida</h1>
-<h3 align="center">A passionated and prospective Software/Firmware Engineer from the Bay Area. I am currently a fourth-year at Cal Poly SLO!</h3>
+<h3 align="center">A passionate and prospective Software/Firmware Engineer from the Bay Area. I am currently a fourth-year at Cal Poly SLO!</h3>
 
 - 🔭 I’m currently working on **Jigsaw Puzzle for Hospice Residents**
 
