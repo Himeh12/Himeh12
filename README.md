@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaime Almeida</h1>
 <h3 align="center">A passionate and prospective Software/Firmware Engineer from the Bay Area. I am currently a fourth-year at Cal Poly SLO!</h3>
 
-- 🔭 I’m currently working on **Jigsaw Puzzle for Hospice Residents**
+- 🔭 I’m currently working on **Jigsaw Puzzle for Hospice Residents** and **Kairos an IOS App for Philosophy Enthusiasts**
 
-- 🌱 I’m currently learning **gdscript,**
+- 🌱 I’m currently learning **swift,**
 
 - 👯 I’m looking to collaborate on **Full Stack Development and Firmware Engineering**
 
